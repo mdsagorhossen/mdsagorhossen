@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Sagor Hossen
-#### Web Developer
 ![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/283173379_792936451678110_1585499483423237932_n.jpg?stp=dst-jpg_p720x720&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFBb9xxkbwTA9lkvAnDXcHJnsd2uYlPHw-ex3a5iU8fD_ELbvcDQ9AcDseHJk32D9cfgmmVyFN0QPggfmmWu99o&_nc_ohc=-lKXwLk9wR4AX_mGtVB&_nc_ht=scontent.fdac7-1.fna&oh=00_AT_sDiNWmXrfFR123kNTDuWyZTnRbH58NgotkiTtrgjvuQ&oe=62906CEB)
 
+### Hi there 👋, I'm Sagor Hossen
+#### Web Developer
 Hello,
 I'm a professional web designer & WordPress And Shopify Expert. I have almost 3 years of experience in WordPress And Shopify.
 
